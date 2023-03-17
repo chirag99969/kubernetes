@@ -20,7 +20,7 @@
 
 
 
-## 2. Creating your own Kubernetes environment
+## Creating your own Kubernetes environment
 
 
 
@@ -31,7 +31,7 @@
 
 
 
-## 3. Understanding kubernetes management and API resources
+## Understanding kubernetes management and API resources
 
 
 
@@ -41,11 +41,11 @@
 
 
 
-## 4. Pods and Deployments
+## Pods and Deployments
 
 
 
-## 5. Troubleshooting applications
+##  Troubleshooting applications
 
 
 ## Understanding service and demo
@@ -53,10 +53,10 @@
 
 
 
-## 7. Understanding Volumes and demo
+##  Understanding Volumes and demo
 
 
-## 8. Understading config maps and demo
+##  Understading config maps and demo
 
 
 
