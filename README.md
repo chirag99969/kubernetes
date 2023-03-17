@@ -49,7 +49,7 @@
 
 
 ## Understanding service and demo
-![ALT text](https://github.com/chirag99969/kubernetes/blob/main/image/Untitled.jpg "SERVICE DEMO")
+![](https://github.com/chirag99969/kubernetes/blob/main/image/Untitled.jpg "SERVICE DEMO")
 
 
 
