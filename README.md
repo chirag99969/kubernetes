@@ -45,13 +45,15 @@
 
 
 
+## 5. Troubleshooting applications
 
 
+## 6. Understanding service and demo
+
+## 7. Understanding Volumes and demo
 
 
-
-
-
+## 8. Understading config maps and demo
 
 
 
