@@ -10,7 +10,7 @@
 - [8. Understading config maps and demo](#understanding-config-maps-and-demo)
 
 ## 1.
-## 1 Understanding Kubernetes
+##  Understanding Kubernetes
 
 
 
