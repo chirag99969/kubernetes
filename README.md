@@ -49,11 +49,14 @@
 
 
 ## Understanding service and demo
+
 ![](https://github.com/chirag99969/kubernetes/blob/main/image/Untitled.jpg)
 
 
 
 ##  Understanding Volumes and demo
+![](https://github.com/chirag99969/kubernetes/blob/main/image/Untitled%20(1).jpg)
+
 
 
 ##  Understading config maps and demo
