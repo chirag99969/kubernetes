@@ -12,9 +12,46 @@
 
 ## 1. Understanding Kubernetes
 
+
+
+
+
+
+
+
+
 ## 2. Creating your own Kubernetes environment
+
+
+
+
+
+
+
+
+
 
 ## 3. Understanding kubernetes management and API resources
 
+
+
+
+
+
+
+
+
 ## 4. Pods and Deployments
+
+
+
+
+
+
+
+
+
+
+
+
 
