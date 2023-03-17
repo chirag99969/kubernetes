@@ -10,7 +10,7 @@
 - [8. Understading config maps and demo](#understanding-config-maps-and-demo)
 
 
-## 1. Understanding Kubernetes
+## Understanding Kubernetes
 
 
 
@@ -48,7 +48,7 @@
 ## 5. Troubleshooting applications
 
 
-## 6. Understanding service and demo
+## Understanding service and demo
 ![ALT text](https://github.com/chirag99969/kubernetes/blob/main/image/Untitled.jpg "SERVICE DEMO")
 
 
