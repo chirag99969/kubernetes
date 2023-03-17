@@ -49,6 +49,9 @@
 
 
 ## 6. Understanding service and demo
+[service demo](https://github.com/chirag99969/kubernetes/blob/main/image/Untitled.jpg)
+
+
 
 ## 7. Understanding Volumes and demo
 
